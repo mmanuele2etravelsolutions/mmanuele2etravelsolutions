@@ -28,7 +28,7 @@
 ## Microsoft Office 365 📊
 - Experiencia en la implementación y administración de soluciones de Microsoft Office 365.
 
-Si deseas conocer más sobre mi trabajo, puedes visitar mi perfil de [GitHub](https://github.com/mmanuele2etravelsolutions) y mi perfil de [LinkedIn]([https://www.linkedin.com/in/TuNombre](https://www.linkedin.com/in/maximiliano-manuel-13341b143?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app).
+Si deseas conocer más sobre mi trabajo, puedes visitar mi perfil de [GitHub](https://github.com/mmanuele2etravelsolutions) y mi perfil de [LinkedIn]([https://www.linkedin.com/in/TuNombre](https://www.linkedin.com/in/maximiliano-manuel-13341b143?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)).
 
 Si tienes alguna pregunta, necesitas asistencia o estás interesado en mis servicios de soporte privado o consultoría externa, no dudes en [contactarme](xxxxxxxxx@xxxxxxx.xxxx).
 
