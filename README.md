@@ -1,3 +1,4 @@
+<!---
 # Habilidades y Experiencia ✨
 
 ¡Hola! Soy [MAX], un profesional de TI con experiencia en diversas áreas. Aquí tienes un resumen de mis habilidades y experiencia:
@@ -31,6 +32,7 @@ Si deseas conocer más sobre mi trabajo, puedes visitar mi perfil de [GitHub](ht
 Si tienes alguna pregunta, necesitas asistencia o estás interesado en mis servicios de soporte privado o consultoría externa, no dudes en [contactarme](mailto:tu@email.com).
 
 ¡Gracias por visitar mi perfil de GitHub y LinkedIn! 👋
+--->
 
 <!---
 mmanuele2etravelsolutions/mmanuele2etravelsolutions is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
