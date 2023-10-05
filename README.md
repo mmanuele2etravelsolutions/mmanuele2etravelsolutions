@@ -35,10 +35,6 @@ Si tienes alguna pregunta, necesitas asistencia o estás interesado en mis servi
 ¡Gracias por visitar mi perfil de GitHub y LinkedIn! 👋
 
 
-Si tienes alguna pregunta, necesitas asistencia o estás interesado en mis servicios de soporte privado o consultoría externa, no dudes en [contactarme](xxxxxxxxx@xxxxxxx.xxxx).
-
-¡Gracias por visitar mi perfil de GitHub y LinkedIn! 👋
-
 <!---
 mmanuele2etravelsolutions/mmanuele2etravelsolutions is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
