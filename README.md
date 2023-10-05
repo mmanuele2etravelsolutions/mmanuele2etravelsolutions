@@ -1,6 +1,6 @@
 # Habilidades y Experiencia ✨
 
-¡Hola! Soy [Max], un profesional de TI con experiencia en diversas áreas. Aquí tienes un resumen de mis habilidades y experiencia:
+¡Hola! Soy [Tu Nombre], un profesional de TI con experiencia en diversas áreas. Aquí tienes un resumen de mis habilidades y experiencia:
 
 ## Administración de Servidores Cloud e Infraestructura ☁️
 - Experiencia en la administración de servidores en la nube, especialmente AWS (full), Azure, y Google Cloud.
@@ -16,21 +16,21 @@
 - Ofrezco servicios de soporte privado para solucionar problemas específicos de TI y mantener la infraestructura de tu empresa en funcionamiento.
 - Proporciono consultoría externa para ayudarte a diseñar, implementar y optimizar soluciones tecnológicas a medida.
 
-## Herramientas y Tecnologías 🛠️
-- Sólidos conocimientos en Git, GitHub y GitLab para el control de versiones y colaboración en proyectos.
-- Experiencia en contenedores Docker y orquestación de Kubernetes (K8S).
-- Configuración y administración de servidores web Nginx, así como desarrollo de aplicaciones PHP y gestión de bases de datos MySQL.
-- Programación de scripts en Python y manejo de formatos de datos como YAML y JSON.
-- Uso de Proxmox para la virtualización y gestión de máquinas virtuales.
-- Configuración y gestión de tareas programadas (Cron Jobs).
-- Conocimientos en sistemas operativos Windows 7, 10 y 11, así como Debian y Fedora en entornos Linux.
+## Experiencia en IA 🤖
+- Tengo experiencia en el uso de herramientas de IA como ChatGPT, BlackboxIA y Copilot para el desarrollo de soluciones avanzadas.
+- He trabajado en proyectos de IA que involucran procesamiento de lenguaje natural, aprendizaje automático y más.
 
-## Microsoft Office 365 📊
-- Experiencia en la implementación y administración de soluciones de Microsoft Office 365.
+## Gráficos de Repositorios
+- Puedes encontrar algunos de mis proyectos en GitHub. Aquí tienes enlaces a algunos de mis repositorios más destacados:
+  - [Proyecto 1](https://github.com/TuNombre/Proyecto1)
+  - [Proyecto 2](https://github.com/TuNombre/Proyecto2)
+  - [Proyecto 3](https://github.com/TuNombre/Proyecto3)
 
-Si deseas conocer más sobre mi trabajo, puedes visitar mi perfil de [GitHub]([https://github.com/mmanuele2etravelsolutions]) y mi perfil de [LinkedIn]([https://www.linkedin.com/in/maximiliano-manuel-13341b143]).
+Si deseas conocer más sobre mi trabajo, puedes visitar mi perfil de [GitHub](https://github.com/TuNombre) y mi perfil de [LinkedIn](https://www.linkedin.com/in/TuNombre).
 
 Si tienes alguna pregunta, necesitas asistencia o estás interesado en mis servicios de soporte privado o consultoría externa, no dudes en [contactarme](mailto:tu@email.com).
+
+¡Gracias por visitar mi perfil de GitHub y LinkedIn! 👋
 
 ¡Gracias por visitar mi perfil de GitHub y LinkedIn! 👋
 
