@@ -1,6 +1,6 @@
 # Habilidades y Experiencia ✨
 
-¡Hola! Soy [Tu Nombre], un profesional de TI con experiencia en diversas áreas. Aquí tienes un resumen de mis habilidades y experiencia:
+¡Hola! Soy [MAX], un profesional de TI con experiencia en diversas áreas. Aquí tienes un resumen de mis habilidades y experiencia:
 
 ## Administración de Servidores Cloud e Infraestructura ☁️
 - Experiencia en la administración de servidores en la nube, especialmente AWS (full), Azure, y Google Cloud.
@@ -26,7 +26,7 @@
   - [Proyecto 2](https://github.com/TuNombre/Proyecto2)
   - [Proyecto 3](https://github.com/TuNombre/Proyecto3)
 
-Si deseas conocer más sobre mi trabajo, puedes visitar mi perfil de [GitHub](https://github.com/TuNombre) y mi perfil de [LinkedIn](https://www.linkedin.com/in/TuNombre).
+Si deseas conocer más sobre mi trabajo, puedes visitar mi perfil de [GitHub](https://github.com/mmanuele2etravelsolutions) y mi perfil de [LinkedIn](https://www.linkedin.com/in/maximiliano-manuel-13341b143).
 
 Si tienes alguna pregunta, necesitas asistencia o estás interesado en mis servicios de soporte privado o consultoría externa, no dudes en [contactarme](mailto:tu@email.com).
 
