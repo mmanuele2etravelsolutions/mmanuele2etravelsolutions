@@ -40,11 +40,11 @@ Idiomas y Herramientas:</h3>
   - Implementación de soluciones de monitoreo con Grafana para visualización de métricas y estadísticas de sistemas.
   - Uso de Loki para el registro de registros y eventos y Prometheus para el monitoreo de sistemas y servicios.
   - Configuración de Promtail para la recopilación de registros y su envío a Loki para su posterior análisis.
-
+<!---
 - **Soporte Privado y Consultoría Externa 🌐**
   - Ofrezco servicios de soporte privado para solucionar problemas específicos de TI y mantener la infraestructura de tu empresa en funcionamiento.
   - Proporciono consultoría externa para ayudarte a diseñar, implementar y optimizar soluciones tecnológicas a medida.
-
+--->
 - **Experiencia en IA 🤖**
   - Tengo experiencia en el uso de herramientas de IA como ChatGPT, BlackboxIA y Copilot para el desarrollo de soluciones avanzadas.
 
