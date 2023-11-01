@@ -34,6 +34,7 @@ Idiomas y Herramientas:</h3>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=flechablanca19&show_icons=true&locale=en&layout=compact" alt="flechablanca19" /></p><p>
+&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=flechablanca19&show_icons=true&locale=en" alt="flechablanca19" /></p>
 
 - **Monitoreo y Observabilidad con Grafana, Loki, Prometheus y Promtail 📊**
   - Implementación de soluciones de monitoreo con Grafana para visualización de métricas y estadísticas de sistemas.
@@ -46,9 +47,6 @@ Idiomas y Herramientas:</h3>
 
 - **Experiencia en IA 🤖**
   - Tengo experiencia en el uso de herramientas de IA como ChatGPT, BlackboxIA y Copilot para el desarrollo de soluciones avanzadas.
-
-&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=flechablanca19&show_icons=true&locale=en" alt="flechablanca19" /></p>
-
 
 - **Gráficos de Repositorios**
   - Puedes encontrar algunos de mis proyectos en GitHub. Aquí tienes enlaces a algunos de mis repositorios más destacados:
