@@ -8,7 +8,7 @@
 ## Habilidades y Experiencia ✨
 
 - **Administración de Servidores Cloud e Infraestructura ☁️**
-  - Experiencia en la administración de servidores en la nube, especialmente AWS (full), Azure, y Google Cloud.
+  - Experiencia en la administración de servidores en la nube, especialmente Aws, Azure, y Google Cloud.
   - Configuración y gestión de instancias virtuales, redes y almacenamiento en la nube.
   - Implementación de soluciones escalables y altamente disponibles en la nube.
 
