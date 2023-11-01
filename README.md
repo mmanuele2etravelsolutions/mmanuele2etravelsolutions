@@ -57,7 +57,7 @@
     - [Proyecto 1](https://github.com/TuNombre/Proyecto1)
     - [Proyecto 2](https://github.com/TuNombre/Proyecto2)
     - [Proyecto 3](https://github.com/TuNombre/Proyecto3)
-
+<!---
 ## Cómo Puedo Mejorar Tu Empresa 🚀
 
 Con mis habilidades y experiencia, puedo ayudar a mejorar tu empresa de las siguientes maneras:
