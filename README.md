@@ -2,7 +2,7 @@
 
 <!---
 ![Imagen de Cabecera](https://www.linkedin.com/in/maximiliano-manuel-13341b143/overlay/background-image/)
---->
+
 ¡Hola! Soy Maximiliano Manuel, un profesional de TI con experiencia en diversas áreas. A continuación, encontrarás un resumen de mis habilidades y experiencia, así como cómo puedo mejorar una empresa con mis capacidades:
 
 ## Habilidades y Experiencia ✨
@@ -57,7 +57,7 @@ Con mis habilidades y experiencia, puedo ayudar a mejorar tu empresa de las sigu
 - [Perfil de GitHub](https://github.com/mmanuele2etravelsolutions)
 
 ¡Gracias por visitar mi perfil de GitHub y LinkedIn! 👋
-
+--->
 <!---
 mmanuele2etravelsolutions/mmanuele2etravelsolutions is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
