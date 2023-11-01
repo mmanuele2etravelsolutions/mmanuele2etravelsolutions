@@ -1,7 +1,8 @@
 # Maximiliano Manuel - Profesional de TI
 
-//![Imagen de Cabecera](https://www.linkedin.com/in/maximiliano-manuel-13341b143/overlay/background-image/)
-
+<!---
+![Imagen de Cabecera](https://www.linkedin.com/in/maximiliano-manuel-13341b143/overlay/background-image/)
+--->
 ¡Hola! Soy Maximiliano Manuel, un profesional de TI con experiencia en diversas áreas. A continuación, encontrarás un resumen de mis habilidades y experiencia, así como cómo puedo mejorar una empresa con mis capacidades:
 
 ## Habilidades y Experiencia ✨
