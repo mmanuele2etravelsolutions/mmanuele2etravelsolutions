@@ -50,7 +50,7 @@ Idiomas y Herramientas:</h3>
 
 - **Gráficos de Repositorios**
   - Puedes encontrar algunos de mis proyectos en GitHub. Aquí tienes enlaces a algunos de mis repositorios más destacados:
-    - [Proyecto 1]([https://github.com/mmanuele2etravelsolutions/Proyecto1](https://github.com/mmanuele2etravelsolutions/Grafana-Loki-e2etravelsolutions-mmanuel.git))
+    - [Proyecto 1](https://github.com/mmanuele2etravelsolutions/Grafana-Loki-e2etravelsolutions-mmanuel.git)
     - [Proyecto 2](https://github.com/TuNombre/Proyecto2)
     - [Proyecto 3](https://github.com/TuNombre/Proyecto3)
 
