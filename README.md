@@ -52,7 +52,7 @@ Idiomas y Herramientas:</h3>
   - Puedes encontrar algunos de mis proyectos en GitHub. Aquí tienes enlaces a algunos de mis repositorios más destacados:
     - [Proyecto 1: Grafana y Loki](https://github.com/mmanuele2etravelsolutions/Grafana-Loki-e2etravelsolutions-mmanuel.git)
     - [Proyecto 2: Gitea](https://github.com/mmanuele2etravelsolutions/Gitea-e2e-mmanuel-full)
-    - [Proyecto 3: Bot de Pingdom para Zoho](https://github.com/mmanuele2etravelsolutions/Pingdom-Bot-Zoho-Cliq-e2etravelsolutions-mmanuel.git)
+    - [Proyecto 3: Bot de Pingdom](https://github.com/mmanuele2etravelsolutions/Pingdom-Bot-Zoho-Cliq-e2etravelsolutions-mmanuel.git)
 
 <h3 align="left">Conéctate conmigo: </h3>
 <p align="left"><a href="https://linkedin.com/in/maximiliano-manuel-13341b143" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maximiliano-manuel-13341b143" height="30" width="40" /></a></p><h3 align="left">
