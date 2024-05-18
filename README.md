@@ -36,10 +36,6 @@ Idiomas y Herramientas:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mmanuele2etravelsolutions&show_icons=true&locale=en&layout=compact" alt="mmanuele2etravelsolutions" /></p><p>
 &nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=mmanuele2etravelsolutions&show_icons=true&locale=en" alt="mmanuele2etravelsolutions" /></p>
 
-- **Monitoreo y Observabilidad con Grafana, Loki, Prometheus y Promtail 📊**
-  - Implementación de soluciones de monitoreo con Grafana para visualización de métricas y estadísticas de sistemas.
-  - Uso de Loki para el registro de registros y eventos y Prometheus para el monitoreo de sistemas y servicios.
-  - Configuración de Promtail para la recopilación de registros y su envío a Loki para su posterior análisis.
 <!---
 - **Soporte Privado y Consultoría Externa 🌐**
   - Ofrezco servicios de soporte privado para solucionar problemas específicos de TI y mantener la infraestructura de tu empresa en funcionamiento.
