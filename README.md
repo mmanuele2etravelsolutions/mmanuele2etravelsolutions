@@ -10,7 +10,7 @@ Cloud Administrator | AWS | Terraform | Ansible | IaC | Geek | Nerd
 
 - Actualmente estoy aprendiendo en profundidad **Terraform, Ansible, Docker, K8S, Linux, AWS.**
 
-- Estoy buscando colaborar en [pi-hole (Docker)](https://github.com/pi-hole/pi-hole.git)- 👯 💻 🌱 👨
+- Estoy colaborando en [pi-hole (Docker)](https://github.com/pi-hole/pi-hole.git)- 👯 💻 🌱 👨
 - Todos mis proyectos están disponibles en [https://github.com/mmanuele2etravelsolutions](https://github.com/mmanuele2etravelsolutions)
 
 
